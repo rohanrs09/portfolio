@@ -44,7 +44,7 @@ export function EducationSection() {
       <div className="flex min-h-0 flex-col gap-y-3 mt-10">
         
         <BlurFade delay={BLUR_FADE_DELAY * 7}>
-          <h2 className="text-xl font-bold text-center">I'm currently looking to join a  <span className="text-resume-text">cross-functional</span> developer team
+          <h2 className="text-xl font-bold text-center">I am currently looking to join a  <span className="text-resume-text">cross-functional</span> developer team
 building accessible, user-centered solutions.</h2>
         </BlurFade>
         <BlurFade delay={BLUR_FADE_DELAY * 8}>
