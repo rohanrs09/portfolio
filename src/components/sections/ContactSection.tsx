@@ -1,4 +1,4 @@
-import BlurFade from "@/components/magicui/blur-fade";
+import BlurFade from "@/components/ui/blur-fade";
 import Link from "next/link";
 import { DATA } from "@/data/resume";
 

@@ -1,5 +1,5 @@
 "use client";
-import BlurFade from "@/components/magicui/blur-fade";
+import BlurFade from "@/components/ui/blur-fade";
 import { ResumeCard } from "@/components/resume-card";
 import { DATA } from "@/data/resume";
 import { AnimatedBeam } from "@/components/ui/animated-beam";
